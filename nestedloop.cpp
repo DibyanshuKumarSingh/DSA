@@ -17,3 +17,4 @@ int main()
     }
     return 0;
 }
+// This program prints a right-angled triangle of consecutive numbers

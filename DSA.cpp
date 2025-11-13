@@ -24,3 +24,4 @@ int main ()
     cout << "Smallest element : " << min;
     return 0;
 }
+

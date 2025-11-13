@@ -17,3 +17,5 @@ int main()
     }
     return 0;
 }
+// This program prints a right-angled triangle of consecutive numbers
+// with 4 rows, where each row contains an increasing count of numbers.

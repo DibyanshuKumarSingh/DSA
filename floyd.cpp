@@ -10,10 +10,10 @@ int main()
     {
         for (int j = 0; j < i + 1; j++)
         {
-            std::cout << currentNumber << " ";
+            cout << currentNumber << " ";
             currentNumber++;
         }
-        std::cout << std::endl;
+        cout << endl;
     }
 
     return 0;

@@ -18,6 +18,3 @@ int main()
     }
     return 0;
 }
-// This program takes an integer input for the size of an array,
-// then takes that many integer inputs to fill the array,       
-// and finally prints the elements of the array.
